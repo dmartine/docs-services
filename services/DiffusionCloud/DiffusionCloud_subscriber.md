@@ -140,5 +140,3 @@ This example steps through creating a subscribing client. The full code example 
 * [Getting started in Java](http://docs.pushtechnology.com/cloud/latest/manual/html/developerguide/apis/java/getting_started.html){:new_window}
 * [Getting started in .NET](http://docs.pushtechnology.com/cloud/latest/manual/html/developerguide/apis/dotnet/getting_started.html){:new_window}
 * [Getting started in C](http://docs.pushtechnology.com/cloud/latest/manual/html/developerguide/apis/c/getting_started_c.html){:new_window}
-
- 

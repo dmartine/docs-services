@@ -43,7 +43,7 @@ If you are new to RabbitMQ, we recommend you read the guide [RabbitMQ for beginn
 
 <!-- Include a sentence to briefly introduce the steps. Examples: -->
 
-###Steps to integrate your app with the service.
+## Integrating your app with the service 
 
 Complete these steps to get started with the CloudAMQP service:
 
@@ -104,7 +104,7 @@ Use {:new_window} for external links to open a new window.-->
 
 
 # Related Links
-{: #rellinks}
+{: #rellinks notoc}
 
 ## Tutorials and Samples
 {: #samples}

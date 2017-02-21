@@ -142,5 +142,3 @@ app.listen(appEnv.port, '0.0.0.0', function() {
 * [Start publishing in Java](http://docs.pushtechnology.com/cloud/latest/manual/html/developerguide/apis/java/getting_started_publisher.html){:new_window}
 * [Start publishing in .NET](http://docs.pushtechnology.com/cloud/latest/manual/html/developerguide/apis/dotnet/getting_started_publisher.html){:new_window}
 * [Start publishing in C](http://docs.pushtechnology.com/cloud/latest/manual/html/developerguide/apis/c/getting_started_publisher.html){:new_window}
-
- 

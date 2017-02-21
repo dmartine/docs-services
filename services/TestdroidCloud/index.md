@@ -31,7 +31,8 @@ To get started quickly with Testdroid Cloud, complete these steps:
 
 
 # Related Links
-{: #rellinks}
+{: #rellinks notoc}
+
 * <a href="mailto:info@bitbar.com?Subject=Question from Bluemix" target="_top">Get in contact</a>
 
 ## Tutorials and Samples
@@ -47,8 +48,9 @@ To get started quickly with Testdroid Cloud, complete these steps:
 * [Testdroid REST API](http://docs.testdroid.com/testdroid-cloud-integration/api/)
 * [Testdroid Samples](https://github.com/bitbar/testdroid-samples)
 
-## Related Links
-{: #general}
+# Related Links
+{: #rellinks notoc}
+
 * [Mobile App Testing with Testdroid](http://bitbar.com/testing/)
 * [Testdroid Community Portal](http://bitbar.com/testing/blog/)
 
